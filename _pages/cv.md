@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,24 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Version](http://angelina-wang.github.io/files/resume.pdf)
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Electrical Engineering and Computer Science, University of California, Berkeley, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2017-present: Undergraduate Researcher at Berkeley Artificial Intellicence Research Lab
+  * Work under Pieter Abbeel’s group with postdoc Aviv Tamar on new ways to classify images using deep learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* January 2017-present: Engineering Lead at Archer (Technology Nonprofit)
+  * Use Node and React to build a web application that will allow for an entirely new way to conduct open source investigations
+  * Consolidated data for every flight in the air through Amazon Redshift to maintain a historical database
+  * Implemented map visualization for aircraft flight patterns, with queries available by ICAO code or region
+  * archerimpact.com
+
+* Summer 2017: Engineering Practicum Intern at Google
+  * Worked on infrastructure team to improve Streaming Flume, the internal streaming data processing system
+  * Implemented hot key detection and mitigation to parallelize bottlenecks in the pipeline
+  * Created a protocol buffer communication channel for key heat information between manager and worker nodes
+
+<!-- 
 Skills
 ======
 * Skill 1
@@ -34,15 +39,19 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+* [Safer Classification by Synthesis](https://arxiv.org/abs/1711.08534)
+  * William Wang, Angelina Wang, Aviv Tamar, Xi Chen, Pieter Abbeel
+  * NIPS 2017 Aligned AI Workshop
+
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
