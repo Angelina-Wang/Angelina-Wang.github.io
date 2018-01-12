@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * August 2017-present: Undergraduate Researcher at Berkeley Artificial Intellicence Research Lab
-  * Work under Pieter Abbeel’s group with postdoc Aviv Tamar on new ways to classify images using deep learning
+  * Work under Pieter Abbeel’s group with postdoc Aviv Tamar on new ways to classify images using generative models
 
 * January 2017-present: Engineering Lead at Archer (Technology Nonprofit)
   * Use Node and React to build a web application that will allow for an entirely new way to conduct open source investigations
