@@ -18,19 +18,24 @@ Education
 
 Work experience
 ======
-* August 2017-present: Undergraduate Researcher at Berkeley Artificial Intellicence Research Lab
+* August 2017-present: Undergraduate Researcher at **Berkeley Artificial Intelligence Research Lab**
   * Work under Pieter Abbeel’s group with postdoc Aviv Tamar on new ways to classify images using generative models
 
-* January 2017-present: Engineering Lead at Archer (Technology Nonprofit)
+* January 2017-present: Engineering Lead at [**Archer**](https://www.archerimpact.com) (Technology Nonprofit)
   * Use Node and React to build a web application that will allow for an entirely new way to conduct open source investigations
   * Consolidated data for every flight in the air through Amazon Redshift to maintain a historical database
   * Implemented map visualization for aircraft flight patterns, with queries available by ICAO code or region
   * archerimpact.com
 
-* Summer 2017: Engineering Practicum Intern at Google
+* Summer 2017: Engineering Practicum Intern at **Google**
   * Worked on infrastructure team to improve Streaming Flume, the internal streaming data processing system
   * Implemented hot key detection and mitigation to parallelize bottlenecks in the pipeline
   * Created a protocol buffer communication channel for key heat information between manager and worker nodes
+
+Extracurriculars
+=======
+* Academic Intern for Introduction to Machine Learning (CS189/CS289A)
+* Member of [Machine Learning @ Berkeley](https://ml.berkeley.edu/)
 
 <!-- 
 Skills
