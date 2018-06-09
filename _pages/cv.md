@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version](http://angelina-wang.github.io/files/resume.pdf)
+[*PDF Version*](http://angelina-wang.github.io/files/resume.pdf)
 
 Education
 ======
@@ -34,7 +34,7 @@ Work experience
 Extracurriculars
 =======
 * Academic Intern for Introduction to Machine Learning (CS189/CS289A)
-* Member of [Machine Learning @ Berkeley](https://ml.berkeley.edu/)
+* Member of [*Machine Learning @ Berkeley*](https://ml.berkeley.edu/)
 
 <!-- 
 Skills
@@ -48,7 +48,7 @@ Skills
 
 Publications
 ======
-* [Safer Classification by Synthesis](https://arxiv.org/abs/1711.08534)
+* [*Safer Classification by Synthesis*](https://arxiv.org/abs/1711.08534)
   * William Wang, Angelina Wang, Aviv Tamar, Xi Chen, Pieter Abbeel
   * NIPS 2017 Aligned AI Workshop
 
