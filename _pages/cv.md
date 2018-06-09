@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering and Computer Science, University of California, Berkeley, 2019 (expected)
-* Technical GPA: 3.87/4.00
+* Major GPA: 3.95/4.00
 
 Work experience
 ======
