@@ -10,9 +10,11 @@ redirect_from:
 
 I grew up in sunny San Diego where I developed a strong affinity for burritos and the beach, preferably together, but also acceptable separate. I am currently a student at the University of California, Berkeley majoring in Electrical Engineering and Computer Science and minoring in Philosophy, with an anticipated graudation of May 2019. I first became interested in computer science one fateful day in high school when I got sick and spent an entire day holed up on the couch working my way through Codecademy. I got so into it that I forgot if I had already eaten the daily allotment of 2 gummy vitamins and may have overdosed a bit. Whether the high I got afterwards was from the excess of vitamins or the programming, I was hooked. I am extremely passionate about what I study, and strive to gain more knowledge and experience in the field. My hobbies include playing volleyball, juggling, and eating watermelon with a spoon.
 
+![](images/my_images/IMG_5248.JPG)
+
 Academic Interests
 ======
-I am currently conducting machine learning research in Pieter Abbeel's group under postdoc Aviv Tamar. We are working on safer forms of classification using generative models.
+I am currently conducting machine learning research in Pieter Abbeel's group under postdoc Aviv Tamar. Previously I worked on a project for safer forms of classification using generative models. I am currently working on a project addressing visual planning for robotic manipulation.
 
 <!-- Getting started
 ======
