@@ -15,11 +15,13 @@ Education
 ======
 * B.S. in Electrical Engineering and Computer Science, University of California, Berkeley, 2019 (expected)
 * Major GPA: 3.95/4.00
+* Honors
+  * Mark D. Weiser Excellence in Computing Scholarship, Regents and Chancellors' Scholar (top 2% of incoming class), EECS Honors Program, Eta Kappa Nu (Electrical and Computer Engineering Honors Society), Tau Beta Pi (Engineering Honors Society)
 
 Work experience
 ======
 * August 2017-present: Undergraduate Researcher at [**Berkeley Artificial Intelligence Research Lab**](http://bair.berkeley.edu)
-  * Work under Pieter Abbeel’s group with postdoc Aviv Tamar on new ways to classify images using generative models
+  * Work under Pieter Abbeel’s group with postdoc Aviv Tamar on visual planning for robotic manipulation
 
 * January 2017-present: Engineering Lead at [**Archer**](https://www.archerimpact.com) (Technology Nonprofit)
   * Use Node and React to build a web application that will allow for an entirely new way to conduct open source investigations
@@ -31,10 +33,20 @@ Work experience
   * Implemented hot key detection and mitigation to parallelize bottlenecks in the pipeline
   * Created a protocol buffer communication channel for key heat information between manager and worker nodes
 
-Extracurriculars
+Teaching
+=======
+* Education Officer of [*Machine Learning @ Berkeley*](https://ml.berkeley.edu/)
+  * Teach introductory 2-unit deep learning course of 200 students as well as develop content and create homeworks
+  * Prepare and host workshops and demos for the general community
+* Academic Intern for Introduction to Machine Learning (CS189/CS289A)
+  * Help to write and debug homework problems and solutions for class of over 300 students
+* Tutor for Eta Kappa Nu
+  * Assist students 1-on-1 in understanding content and homework from technical courses
+
+<!-- Extracurriculars
 =======
 * Academic Intern for Introduction to Machine Learning (CS189/CS289A)
-* Member of [*Machine Learning @ Berkeley*](https://ml.berkeley.edu/)
+* Member of [*Machine Learning @ Berkeley*](https://ml.berkeley.edu/) -->
 
 <!-- 
 Skills
