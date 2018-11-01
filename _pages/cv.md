@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering and Computer Science, University of California, Berkeley, 2019 (expected)
+* B.S. in Electrical Engineering and Computer Science, Minor in Philosophy, University of California, Berkeley, 2019 (expected)
 * Major GPA: 3.95/4.00
 * Honors
   * Mark D. Weiser Excellence in Computing Scholarship, Regents and Chancellors' Scholar (top 2% of incoming class), EECS Honors Program, Eta Kappa Nu (Electrical and Computer Engineering Honors Society), Tau Beta Pi (Engineering Honors Society)
@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 * August 2017-present: Undergraduate Researcher at [**Berkeley Artificial Intelligence Research Lab**](http://bair.berkeley.edu)
-  * Work under Pieter Abbeel’s group with postdoc Aviv Tamar on visual planning for robotic manipulation
+  * Work in Pieter Abbeel’s group with postdoc Aviv Tamar on visual planning for robotic manipulation
 
 * January 2017-present: Engineering Lead at [**Archer**](https://www.archerimpact.com) (Technology Nonprofit)
   * Use Node and React to build a web application that will allow for an entirely new way to conduct open source investigations
@@ -60,8 +60,12 @@ Skills
 
 Publications
 ======
+* Learning Robotic Manipulation through Visual Planning and Acting
+  * **Angelina Wang**, Thanard Kurutach, Aviv Tamar, Pieter Abbeel
+  * In review for ICRA 2019
+  * [*Video*](https://tinyurl.com/visualplanningacting)
 * [*Safer Classification by Synthesis*](https://arxiv.org/abs/1711.08534)
-  * William Wang, Angelina Wang, Aviv Tamar, Xi Chen, Pieter Abbeel
+  * William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
   * NIPS 2017 Aligned AI Workshop
 
 <!--   <ul>{% for post in site.publications %}
