@@ -16,7 +16,7 @@ Check out this [*video*](https://vimeo.com/265019557) of a recent trip with some
 
 Academic Interests
 ======
-I am currently conducting machine learning research in Pieter Abbeel's group under postdoc Aviv Tamar. Previously I worked on a project for safer forms of classification using generative models. I am currently working on a project addressing visual planning for robotic manipulation.
+I am conducting machine learning research in Pieter Abbeel's group under postdoc Aviv Tamar. Previously I worked on a project for safer forms of classification using generative models. I am currently working on a project addressing visual planning for robotic manipulation. My research interests are in building interpretable artificial intelligence models that are able to better and more fairly benefit the humans that use them.
 
 <!-- Getting started
 ======
