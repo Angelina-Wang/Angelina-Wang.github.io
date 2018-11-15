@@ -26,6 +26,7 @@ Work experience
 * August 2018-present: Technical Investigator at [**Human Rights Investigation Lab**](https://www.law.berkeley.edu/research/human-rights-center/programs/technology/human-rights-investigations-lab-internships/) of Berkeley Law School
   * Develop hate speech monitoring dashboards across platforms for teams on the ground in Sub-Saharan Africa
   * Assist in content analysis of bot tweets targeting women's reproductive rights activists
+  * (Continuation of Archer work)
 
 * January 2017-October 2018: Engineering Lead at [**Archer**](https://www.archerimpact.com) (Technology Nonprofit)
   * Use Node and React to build a web application based off extensive user interviews that allows for an entirely new way to conduct open source investigations
