@@ -18,13 +18,13 @@ Built a chrome extension that allows you to designate certain websites that you 
 ## Pairings
 
 Developed a modified version of the Stable Marriage Algorithm that works even when each member doesn't rank every other member. Reads from and writes to a Google Sheet using the API.
-
+<!-- 
 ## Message Decoder App
 
 Built an app that, given a keyword, can encrypt and decrypt messages based on the Vigenere cipher.
 
 ## Text Editor
-A text editor built from scratch that has clicking, cursor, scroll bar, word wrap, open/save, size, and undo/redo capabilities. Blinking cursor moves based on click location in constant time by maintaining linked lists of the characters in each line, and which characters are before or after the cursor.
+A text editor built from scratch that has clicking, cursor, scroll bar, word wrap, open/save, size, and undo/redo capabilities. Blinking cursor moves based on click location in constant time by maintaining linked lists of the characters in each line, and which characters are before or after the cursor. -->
 
 ## High School Physics Video
 Purely here for your entertainment and cringing. [*Link*](https://www.youtube.com/watch?v=gJOh3IPAo3c)

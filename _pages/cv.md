@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[*PDF Version*](http://angelina-wang.github.io/files/resume.pdf)
+[*Resume PDF*](http://angelina-wang.github.io/files/resume.pdf)
+[*CV PDF*](http://angelina-wang.github.io/files/cv.pdf)
 
 Education
 ======
 * B.S. in Electrical Engineering and Computer Science, Minor in Philosophy, University of California, Berkeley, 2019 (expected)
-* Major GPA: 3.95/4.00
+* Major GPA: 3.96/4.00, Overall GPA: 3.86/4.00
 * Honors
   * Mark D. Weiser Excellence in Computing Scholarship, Regents and Chancellors' Scholar (top 2% of incoming class), EECS Honors Program, Eta Kappa Nu (Electrical and Computer Engineering Honors Society), Tau Beta Pi (Engineering Honors Society)
 
@@ -65,9 +66,11 @@ Skills
 
 Publications
 ======
-* Learning Robotic Manipulation through Visual Planning and Acting
+* [*Learning Robotic Manipulation through Visual Planning and Acting*](https://drive.google.com/file/d/0B_utB5Y8Y6D5Y1RUSjFveUdZb1hnQmNrakNEQndka3RydzZr/view)
   * **Angelina Wang**, Thanard Kurutach, Aviv Tamar, Pieter Abbeel
-  * NIPS 2018 workshops (Deep RL; Modeling the Physical World: Learning, Perception, and Control; Causal Learning; Infer2Control)
+  * NeurIPS 2018 workshops
+    * Oral Presentations: Deep RL (9% acceptance); Modeling the Physical World: Learning, Perception, and Control (5% acceptance)
+    * Poster Presentations: Causal Learning; Infer2Control
   * In review for ICRA 2019
   * [*Video*](https://tinyurl.com/visualplanningacting)
 * [*Safer Classification by Synthesis*](https://arxiv.org/abs/1711.08534)
