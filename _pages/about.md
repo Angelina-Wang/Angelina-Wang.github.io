@@ -16,7 +16,7 @@ I grew up in sunny San Diego where I developed a strong affinity for burritos an
 
 Academic Interests
 ======
-I am conducting machine learning research in Pieter Abbeel's group under postdoc Aviv Tamar. Previously I worked on a project for safer forms of classification using generative models. I am currently working on a project addressing visual planning for robotic manipulation. My research interests are in working at the intersection of AI and HCI, and on topics like building interpretable artificial intelligence models that are able to better and more fairly benefit the humans that use them.
+I am conducting machine learning research in [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)'s group under postdoc [Aviv Tamar](https://people.eecs.berkeley.edu/~avivt/). Previously I worked on a project for safer forms of classification using generative models. I am currently working on a project addressing visual planning for robotic manipulation. My research interests are in working at the intersection of AI and HCI, and on topics like building interpretable artificial intelligence models that are able to better and more fairly benefit the humans that use them.
 
 <!-- Getting started
 ======

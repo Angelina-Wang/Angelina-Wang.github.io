@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 [*Resume PDF*](http://angelina-wang.github.io/files/resume.pdf)
-[*CV PDF*](http://angelina-wang.github.io/files/cv.pdf)
 
+[*CV PDF*](http://angelina-wang.github.io/files/cv.pdf)
+<!-- 
 Education
 ======
 * B.S. in Electrical Engineering and Computer Science, Minor in Philosophy, University of California, Berkeley, 2019 (expected)
@@ -49,20 +50,6 @@ Teaching
 * January 2017-May 2017: Tutor for Eta Kappa Nu
   * Assist students 1-on-1 in understanding content and homework from technical courses
 
-<!-- Extracurriculars
-=======
-* Academic Intern for Introduction to Machine Learning (CS189/CS289A)
-* Member of [*Machine Learning @ Berkeley*](https://ml.berkeley.edu/) -->
-
-<!-- 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
@@ -75,7 +62,7 @@ Publications
   * [*Video*](https://tinyurl.com/visualplanningacting)
 * [*Safer Classification by Synthesis*](https://arxiv.org/abs/1711.08534)
   * William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
-  * NIPS 2017 Aligned AI Workshop
+  * NIPS 2017 Aligned AI Workshop -->
 
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
