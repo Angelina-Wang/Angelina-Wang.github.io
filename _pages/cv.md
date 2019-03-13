@@ -12,6 +12,7 @@ redirect_from:
 [*Resume PDF*](http://angelina-wang.github.io/files/resume.pdf)
 
 [*CV PDF*](http://angelina-wang.github.io/files/cv.pdf)
+
 <!-- 
 Education
 ======
