@@ -8,13 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
-## [Learning Robotic Manipulation through Visual Planning and Acting](https://drive.google.com/file/d/0B_utB5Y8Y6D5Y1RUSjFveUdZb1hnQmNrakNEQndka3RydzZr/view)
-  * **Angelina Wang**, Thanard Kurutach, Aviv Tamar, Pieter Abbeel
+## [Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)
+  * **Angelina Wang**, Thanard Kurutach, Kara Liu, Pieter Abbeel, Aviv Tamar
+  * RSS 2019
   * NeurIPS 2018 workshops
     * Oral Presentations: Deep RL (9% acceptance); Modeling the Physical World: Learning, Perception, and Control (5% acceptance)
     * Poster Presentations: Causal Learning; Infer2Control
-  * In review for RSS 2019
-  * [*Video*](https://tinyurl.com/visualplanningacting)
 
 ## [Safer Classification by Synthesis](https://arxiv.org/abs/1711.08534)
   * William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
