@@ -1,27 +1,32 @@
 ---
 layout: archive
-title: "Research"
+title: "Publications"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<span style="color:CornflowerBlue">[Google Scholar](https://scholar.google.com/citations?user=cGemfcYAAAAJ&hl=en/)</span>
 
-## [Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)
-  * **Angelina Wang**, Thanard Kurutach, Kara Liu, Pieter Abbeel, Aviv Tamar
-  * RSS 2019
-  * NeurIPS 2018 workshops
+
+<span style="color:CornflowerBlue">[Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)</span>
+<br/>
+**Angelina Wang**, Thanard Kurutach, Kara Liu, Pieter Abbeel, Aviv Tamar
+<br/>
+*Robotics: Science and Systems*, 2019
+
+<span style="color:CornflowerBlue">[Safer Classification by Synthesis](https://arxiv.org/abs/1711.08534)</span>
+<br/>
+William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
+<br/>
+*NeurIPS Aligned AI Workshop*, 2017
+
+
+
+<!--   * NeurIPS 2018 workshops
     * Oral Presentations: Deep RL (9% acceptance); Modeling the Physical World: Learning, Perception, and Control (5% acceptance)
-    * Poster Presentations: Causal Learning; Infer2Control
-
-## [Safer Classification by Synthesis](https://arxiv.org/abs/1711.08534)
-  * William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
-  * NeurIPS 2017 Aligned AI Workshop
-
-
-
-
+    * Poster Presentations: Causal Learning; Infer2Control -->
 <!-- 
 ## CapsLock
 
