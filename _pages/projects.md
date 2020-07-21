@@ -11,11 +11,11 @@ author_profile: true
 
 ## Papers
 
-<span style="color:CornflowerBlue">[ViBE: A Tool for Measuring and Mitigating Bias in Image Datasets](https://arxiv.org/abs/2004.07999)</span>
+<span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Image Datasets](https://arxiv.org/abs/2004.07999)</span>
 <br/>
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky
 <br/>
-*Preprint*, 2020
+*ECCV Spotlight*, 2020
 
 <span style="color:CornflowerBlue">[Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)</span>
 <br/>
