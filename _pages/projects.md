@@ -15,7 +15,7 @@ author_profile: true
 <br/>
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky
 <br/>
-*ECCV Spotlight*, 2020
+*ECCV Spotlight (top 5% of submissions)*, 2020
 
 <span style="color:CornflowerBlue">[Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)</span>
 <br/>
