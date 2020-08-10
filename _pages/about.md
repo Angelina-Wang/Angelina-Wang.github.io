@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center of Information Technology Policy](https://citp.princeton.edu/).
+I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center of Information Technology Policy](https://citp.princeton.edu/).
 
 My research interests are in machine learning fairness and algorithmic bias.
 
