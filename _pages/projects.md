@@ -11,7 +11,7 @@ author_profile: true
 
 ## Papers
 
-<span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Image Datasets](https://arxiv.org/abs/2004.07999)</span>
+<span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://arxiv.org/abs/2004.07999)</span>
 <br/>
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky
 <br/>
