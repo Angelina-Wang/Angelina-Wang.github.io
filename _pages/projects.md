@@ -15,7 +15,10 @@ author_profile: true
 <br/>
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky
 <br/>
+<br/>
 *ECCV Spotlight (top 5% of submissions)*, 2020
+<br/>
+<sup>alternate name: "BImAgeS, because BIAS is in all images"</sup>
 
 <span style="color:CornflowerBlue">[Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)</span>
 <br/>
