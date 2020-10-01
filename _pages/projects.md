@@ -15,7 +15,6 @@ author_profile: true
 <br/>
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky
 <br/>
-<br/>
 *ECCV Spotlight (top 5% of submissions)*, 2020
 <br/>
 <sup>alternate name: "BImAgeS, because BIAS is in all images"</sup>
