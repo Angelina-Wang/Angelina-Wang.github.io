@@ -46,7 +46,7 @@ William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
 
 <span style="color:CornflowerBlue">[FTC Comment on Children’s Online Privacy Protection Act (COPPA) Rule](/files/coppa_comment.pdf)</span>
 <br/>
-2019
+*2019*
 
 
 
