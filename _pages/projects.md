@@ -25,26 +25,25 @@ Draft
 <br/>
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky
 <br/>
-*ECCV* 2020 \[Spotlight (top 5% of submissions)\]
+*ECCV 2020 \[Spotlight (top 5% of submissions)\]*
 
 <span style="color:CornflowerBlue">[Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)</span>
 <br/>
 **Angelina Wang**, Thanard Kurutach, Kara Liu, Pieter Abbeel, Aviv Tamar
 <br/>
-*Robotics: Science and Systems* 2019
+*Robotics: Science and Systems 2019*
 
 <span style="color:CornflowerBlue">[Safer Classification by Synthesis](https://arxiv.org/abs/1711.08534)</span>
 <br/>
 William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
 <br/>
-*NeurIPS Aligned AI Workshop* 2017
+*NeurIPS Aligned AI Workshop 2017*
 
 ## Other
 <span style="color:CornflowerBlue">[Building a Bridge with Concrete... Examples](https://freedom-to-tinker.com/2020/03/23/building-a-bridge-with-concrete-examples/)</span>
 <br/>
-*Freedom to Tinker Blog*, 2020
+*Freedom to Tinker Blog 2020*
 
-<br/>
 <span style="color:CornflowerBlue">[FTC Comment on Children’s Online Privacy Protection Act (COPPA) Rule](/files/coppa_comment.pdf)</span>
 <br/>
 2019
