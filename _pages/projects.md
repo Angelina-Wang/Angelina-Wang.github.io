@@ -19,7 +19,6 @@ Draft
 <br/>
 <span style="color:CornflowerBlue">[Corpus](https://electionemails2020.org/)</span>
 
-<br/>
 <span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://arxiv.org/abs/2004.07999)</span>
 <br/>
 <sup>alternate name: "BImAgeS: BIAS is in all images"</sup>
@@ -28,14 +27,12 @@ Draft
 <br/>
 *ECCV* 2020 \[Spotlight (top 5% of submissions)\]
 
-<br/>
 <span style="color:CornflowerBlue">[Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)</span>
 <br/>
 **Angelina Wang**, Thanard Kurutach, Kara Liu, Pieter Abbeel, Aviv Tamar
 <br/>
 *Robotics: Science and Systems* 2019
 
-<br/>
 <span style="color:CornflowerBlue">[Safer Classification by Synthesis](https://arxiv.org/abs/1711.08534)</span>
 <br/>
 William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
