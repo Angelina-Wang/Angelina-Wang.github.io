@@ -13,7 +13,7 @@ author_profile: true
 
 <span style="color:CornflowerBlue">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)</span>
 <br/>
-Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan.
+Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan
 <br/>
 Draft, [Corpus Here](https://electionemails2020.org/)
 
