@@ -15,7 +15,7 @@ author_profile: true
 <br/>
 Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan
 <br/>
-Draft
+*Draft*
 <br/>
 <span style="color:CornflowerBlue">[Corpus](https://electionemails2020.org/)</span>
 
