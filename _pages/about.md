@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center of Information Technology Policy](https://citp.princeton.edu/).
+I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center of Information Technology Policy](https://citp.princeton.edu/). I organize the [Bias in AI reading group](https://aifairness.cs.princeton.edu/) and co-organize the [Research Inclusion Social Event (RISE)](https://rise.cs.princeton.edu/) at Princeton.
 
 My research interests are in machine learning fairness and algorithmic bias.
 
