@@ -9,9 +9,9 @@ author_profile: true
 
 <span style="color:CornflowerBlue">[Google Scholar](https://scholar.google.com/citations?user=cGemfcYAAAAJ&hl=en/)</span>
 
-## Papers
-
 \* signifies equal contribution
+
+## Papers
 
 <span style="color:CornflowerBlue">[The Limits of Global Inclusion in AI Development](https://arxiv.org/abs/2102.01265)</span>
 <br/>
