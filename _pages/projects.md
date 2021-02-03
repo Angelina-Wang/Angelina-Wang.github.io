@@ -11,6 +11,14 @@ author_profile: true
 
 ## Papers
 
+\* signifies equal contribution
+
+<span style="color:CornflowerBlue">[The Limits of Global Inclusion in AI Development](https://arxiv.org/abs/2102.01265)</span>
+<br/>
+Alan Chan\*, Chinasa T. Okolo\*, Zachary Terner\*, **Angelina Wang**\*
+<br/>
+*AAAI 2021 Workshop on Reframing Diversity in AI - Spotlight*
+
 <span style="color:CornflowerBlue">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)</span>
 <br/>
 Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan
@@ -25,7 +33,7 @@ Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Ste
 <br/>
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky
 <br/>
-*ECCV 2020 \[Spotlight (top 5% of submissions)\]*
+*ECCV 2020 - Spotlight (top 5% of submissions)*
 
 <span style="color:CornflowerBlue">[Learning Robotic Manipulation through Visual Planning and Acting](https://arxiv.org/abs/1905.04411)</span>
 <br/>
@@ -37,7 +45,7 @@ Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Ste
 <br/>
 William Wang, **Angelina Wang**, Aviv Tamar, Xi Chen, Pieter Abbeel
 <br/>
-*NeurIPS Aligned AI Workshop 2017*
+*NeurIPS 2017 Aligned AI Workshop*
 
 ## Other
 <span style="color:CornflowerBlue">[Building a Bridge with Concrete... Examples](https://freedom-to-tinker.com/2020/03/23/building-a-bridge-with-concrete-examples/)</span>
