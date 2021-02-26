@@ -13,6 +13,10 @@ author_profile: true
 
 ## Papers
 
+- <span style="color:CornflowerBlue">[Directional Bias Amplification](https://arxiv.org/abs/2102.12594)</span>  
+   **Angelina Wang** and Olga Russakovsky  
+   ***Preprint 2021***
+
 - <span style="color:CornflowerBlue">[The Limits of Global Inclusion in AI Development](https://arxiv.org/abs/2102.01265)</span>  
    Alan Chan\*, Chinasa T. Okolo\*, Zachary Terner\*, **Angelina Wang**\*  
    ***AAAI 2021 Workshop on Reframing Diversity in AI - Spotlight***
