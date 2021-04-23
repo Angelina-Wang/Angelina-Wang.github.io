@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center of Information Technology Policy](https://citp.princeton.edu/).
+I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center of Information Technology Policy](https://citp.princeton.edu/). I organize the [Bias in AI reading group](https://aifairness.cs.princeton.edu/) and co-organize the [Research Inclusion Social Event (RISE)](https://rise.cs.princeton.edu/) at Princeton.
 
 My research interests are in machine learning fairness and algorithmic bias.
 
-Previously I finished my undergrad with a major in Electrical Engineering and Computer Science and a minor in Philosophy at UC Berkeley in 2019, where I worked on interpretable machine learning methods in [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)'s group with [Aviv Tamar](https://people.eecs.berkeley.edu/~avivt/). 
+Previously I finished my undergrad with a major in Electrical Engineering and Computer Science and a minor in Philosophy at UC Berkeley, where I worked on interpretable machine learning methods in [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)'s group with [Aviv Tamar](https://people.eecs.berkeley.edu/~avivt/). 
 
 <!-- I grew up in sunny San Diego where I developed a strong affinity for burritos and the beach, preferably together, but also acceptable separate. I am currently a student at the University of California, Berkeley majoring in Electrical Engineering and Computer Science and minoring in Philosophy, with an anticipated graudation of May 2019. I first became interested in computer science one fateful day in high school when I got sick and spent an entire day holed up on the couch working my way through Codecademy. I got so into it that I forgot if I had already eaten the daily allotment of 2 gummy vitamins and may have overdosed a bit. Whether the high I got afterwards was from the excess of vitamins or the programming, I was hooked. I am extremely passionate about what I study, and strive to gain more knowledge and experience in the field. My hobbies include playing volleyball, juggling, and eating watermelon with a spoon. -->
 
@@ -20,6 +20,9 @@ Previously I finished my undergrad with a major in Electrical Engineering and Co
 
 ![](./../images/my_images/IMG_5248.JPG)
 
+<sub>Thanks to my good friend [Nicki](https://www.nickip.me/), the url [www.angelinawang.gay](http://www.angelinawang.gay) currently redirects to this website</sub>
+
+<!-- <sub><sup>Thanks to my good friend [Nicki](https://www.nickip.me/), the url [angelinawang.gay](http://www.angelinawang.gay) currently redirects to this website</sup></sub> -->
 
 <!-- Getting started
 ======
