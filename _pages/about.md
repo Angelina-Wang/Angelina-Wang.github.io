@@ -12,7 +12,7 @@ I am a computer science PhD student at Princeton University, advised by [Olga Ru
 
 My research interests are in machine learning fairness and algorithmic bias.
 
-Previously I finished my undergrad with a major in Electrical Engineering and Computer Science and a minor in Philosophy at UC Berkeley, where I worked on interpretable machine learning methods in [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)'s group with [Aviv Tamar](https://people.eecs.berkeley.edu/~avivt/). 
+Previously I finished my undergrad with a major in Electrical Engineering and Computer Science and a minor in Philosophy at UC Berkeley, where I worked on interpretable machine learning methods with [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/) and [Aviv Tamar](https://people.eecs.berkeley.edu/~avivt/). 
 
 <!-- I grew up in sunny San Diego where I developed a strong affinity for burritos and the beach, preferably together, but also acceptable separate. I am currently a student at the University of California, Berkeley majoring in Electrical Engineering and Computer Science and minoring in Philosophy, with an anticipated graudation of May 2019. I first became interested in computer science one fateful day in high school when I got sick and spent an entire day holed up on the couch working my way through Codecademy. I got so into it that I forgot if I had already eaten the daily allotment of 2 gummy vitamins and may have overdosed a bit. Whether the high I got afterwards was from the excess of vitamins or the programming, I was hooked. I am extremely passionate about what I study, and strive to gain more knowledge and experience in the field. My hobbies include playing volleyball, juggling, and eating watermelon with a spoon. -->
 
