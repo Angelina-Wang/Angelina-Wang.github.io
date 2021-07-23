@@ -13,6 +13,10 @@ author_profile: true
 
 ## Papers
 
+- <span style="color:CornflowerBlue">[Understanding and Evaluating Racial Biases in Image Captioning](https://arxiv.org/abs/2106.08503)</span>  
+   Dora Zhao, **Angelina Wang**, Olga Russakovsky  
+   ***ICCV 2021***
+
 - <span style="color:CornflowerBlue">[Directional Bias Amplification](https://arxiv.org/abs/2102.12594)</span>  
    **Angelina Wang** and Olga Russakovsky  
    ***ICML 2021***
