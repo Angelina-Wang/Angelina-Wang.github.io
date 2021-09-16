@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center of Information Technology Policy](https://citp.princeton.edu/), and am supported by the [NSF Graduate Student Fellowship](https://www.nsfgrfp.org/). 
+I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with the [Center for Information Technology Policy](https://citp.princeton.edu/), and am supported by the [NSF Graduate Student Fellowship](https://www.nsfgrfp.org/). 
 
 My research interests are in machine learning fairness and algorithmic bias. I organize the [Bias in AI reading group](https://aifairness.cs.princeton.edu/) and co-organize the [RISE (Research Inclusion Social Event)](https://rise.cs.princeton.edu/) at Princeton. In the summer of 2021 I was a research intern at Microsoft working with the [FATE (Fairness, Accountability, Transparency, and Ethics in AI)](https://www.microsoft.com/en-us/research/theme/fate/) and Cognitive Services teams.
 
