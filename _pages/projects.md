@@ -13,6 +13,14 @@ author_profile: true
 
 ## Papers
 
+- Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation (link forthcoming)  
+   **Angelina Wang**, Vikram V. Ramaswamy, Olga Russakovsky  
+   ***FAccT 2022***
+
+- Operationalizing Representational Harms in Image Captioning (link forthcoming)  
+   **Angelina Wang**, Solon Barocas, Kristen Laird, Hanna Wallach  
+   ***FAccT 2022***
+
 - <span style="color:CornflowerBlue">[Understanding and Evaluating Racial Biases in Image Captioning](https://arxiv.org/abs/2106.08503)</span>  
    Dora Zhao, **Angelina Wang**, Olga Russakovsky  
    ***ICCV 2021***
