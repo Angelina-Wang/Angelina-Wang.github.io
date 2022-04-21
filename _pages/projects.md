@@ -26,7 +26,7 @@ author_profile: true
    Dora Zhao, **Angelina Wang**, Olga Russakovsky  
    ***ICCV 2021***
 
-- <span style="color:CornflowerBlue">[Directional Bias Amplification](https://arxiv.org/abs/2102.12594)</span>  
+- <span style="color:CornflowerBlue">[Directional Bias Amplification](https://arxiv.org/abs/2102.12594)</span> \[<span style="color:CornflowerBlue">[video](https://icml.cc/virtual/2021/poster/10553)</span>\] \[<span style="color:CornflowerBlue">[poster](https://docs.google.com/drawings/d/1Ed9L8t-ARv1e7wOMX8QbKsHpu4kqi866ywakUcRWN-k/edit?usp=sharing)</span>\]  
    **Angelina Wang** and Olga Russakovsky  
    ***ICML 2021***
 
@@ -39,7 +39,7 @@ Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Ste
 ***Preprint 2020***,
 <span style="color:CornflowerBlue">[Corpus](https://electionemails2020.org/)</span>
 
-- <span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://arxiv.org/abs/2004.07999)</span>  
+- <span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://arxiv.org/abs/2004.07999)</span> \[<span style="color:CornflowerBlue">[video](https://www.youtube.com/watch?v=PkbXhM5BlSM)</span>\]  
 <sup>alternate name: "BImAgeS: BIAS is in all images"</sup>  
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky  
 ***ECCV 2020 - Spotlight (top 5% of submissions)***
