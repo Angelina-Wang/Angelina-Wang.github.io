@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+- <span style="color:CornflowerBlue">[Testified as a witness on a hearing for facial recognition technology before the Information, Privacy and Ethics Committee of the Canadian Parliament](https://www.ourcommons.ca/DocumentViewer/en/44-1/ETHI/meeting-15/notice)</span>  
+	*Canadian Parliament Committee*, April 4, 2022
+
+- <span style="color:CornflowerBlue">[The First Amendment can help stop dark patterns in campaign fundraising](https://www.brookings.edu/blog/techtank/2022/02/17/the-first-amendment-can-help-stop-dark-patterns-in-campaign-fundraising/)</span>  
+	*Brookings Institution*, Feb 17, 2022
+
 - <span style="color:CornflowerBlue">[The AI industry is built on geographic and social inequality, research shows](https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/)</span>  
 	*Venture Beat*, Feb 4, 2021
 
