@@ -22,6 +22,10 @@ author_profile: true
    **Angelina Wang**, Vikram V. Ramaswamy, Olga Russakovsky  
    ***FAccT 2022***
 
+- <span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://rdcu.be/cObwT)</span>  
+**Angelina Wang**, Alexander Liu, Ryan Zhang, Anat Kleiman, Leslie Kim, Dora Zhao, Iroha Shirai, Arvind Narayanan, Olga Russakovsky  
+***IJCV 2022 (extended version of ECCV 2020 publication)***
+
 - <span style="color:CornflowerBlue">[Understanding and Evaluating Racial Biases in Image Captioning](https://arxiv.org/abs/2106.08503)</span>  
    Dora Zhao, **Angelina Wang**, Olga Russakovsky  
    ***ICCV 2021***
@@ -39,7 +43,7 @@ Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Ste
 ***Preprint 2020***,
 <span style="color:CornflowerBlue">[Corpus](https://electionemails2020.org/)</span>
 
-- <span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://arxiv.org/abs/2004.07999)</span> \[<span style="color:CornflowerBlue">[video](https://www.youtube.com/watch?v=PkbXhM5BlSM)</span>\]  
+- <span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://arxiv.org/abs/2004.07999v3)</span> \[<span style="color:CornflowerBlue">[video](https://www.youtube.com/watch?v=PkbXhM5BlSM)</span>\]  
 <sup>alternate name: "BImAgeS: BIAS is in all images"</sup>  
 **Angelina Wang**, Arvind Narayanan, Olga Russakovsky  
 ***ECCV 2020 - Spotlight (top 5% of submissions)***
