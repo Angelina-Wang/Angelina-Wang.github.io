@@ -18,7 +18,7 @@ author_profile: true
    **Angelina Wang**, Solon Barocas, Kristen Laird, Hanna Wallach  
    ***FAccT 2022***
 
-- Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation (link forthcoming)  
+- <span style="color:CornflowerBlue">[Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation](https://arxiv.org/abs/2205.04610)</span>  
    **Angelina Wang**, Vikram V. Ramaswamy, Olga Russakovsky  
    ***FAccT 2022***
 
