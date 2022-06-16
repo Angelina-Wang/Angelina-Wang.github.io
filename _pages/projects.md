@@ -14,7 +14,7 @@ author_profile: true
 ## Papers
 
 
-- Measuring Representational Harms in Image Captioning (link forthcoming)  
+- <span style="color:CornflowerBlue">[Measuring Representational Harms in Image Captioning](https://arxiv.org/abs/2206.07173)</span>  
    **Angelina Wang**, Solon Barocas, Kristen Laird, Hanna Wallach  
    ***FAccT 2022***
 
