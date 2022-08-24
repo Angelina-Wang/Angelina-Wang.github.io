@@ -14,11 +14,11 @@ author_profile: true
 ## Papers
 
 
-- <span style="color:CornflowerBlue">[Measuring Representational Harms in Image Captioning](https://arxiv.org/abs/2206.07173)</span>  
+- <span style="color:CornflowerBlue">[Measuring Representational Harms in Image Captioning](https://arxiv.org/abs/2206.07173)</span> \[<span style="color:CornflowerBlue">[4 min video](https://www.youtube.com/watch?v=WJryYsn5D3o&list=PLXA0IWa3BpHm5zXqhB9rSTJ09TiFWyMo5&index=116)</span>\] \[<span style="color:CornflowerBlue">[15 min video](https://www.youtube.com/watch?v=P7rshiDQjDQ&list=PLXA0IWa3BpHmmS6AJN9n5Qf3ffG_eHZW0&index=116)</span>\]  
    **Angelina Wang**, Solon Barocas, Kristen Laird, Hanna Wallach  
    ***FAccT 2022***
 
-- <span style="color:CornflowerBlue">[Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation](https://arxiv.org/abs/2205.04610)</span>  
+- <span style="color:CornflowerBlue">[Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation](https://arxiv.org/abs/2205.04610)</span> \[<span style="color:CornflowerBlue">[4 min video](https://www.youtube.com/watch?v=BkBdUK3JMXI&list=PLXA0IWa3BpHm5zXqhB9rSTJ09TiFWyMo5&index=118)</span>\] \[<span style="color:CornflowerBlue">[15 min video](https://www.youtube.com/watch?v=wO-PIUAYMYQ&list=PLXA0IWa3BpHmmS6AJN9n5Qf3ffG_eHZW0&index=119)</span>\]  
    **Angelina Wang**, Vikram V. Ramaswamy, Olga Russakovsky  
    ***FAccT 2022***
 
