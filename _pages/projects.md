@@ -16,6 +16,11 @@ author_profile: true
 - <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span>   
    **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
    ***Preprint, draft available upon request***
+   
+
+- <span style="color:CornflowerBlue">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)</span> \[<span style="color:CornflowerBlue">[corpus](https://electionemails2020.org/)</span>\]  
+Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan  
+***Big Data & Society 2022***
 
 - <span style="color:CornflowerBlue">[Measuring Representational Harms in Image Captioning](https://arxiv.org/abs/2206.07173)</span> \[<span style="color:CornflowerBlue">[4 min video](https://www.youtube.com/watch?v=WJryYsn5D3o&list=PLXA0IWa3BpHm5zXqhB9rSTJ09TiFWyMo5&index=116)</span>\] \[<span style="color:CornflowerBlue">[15 min video](https://www.youtube.com/watch?v=P7rshiDQjDQ&list=PLXA0IWa3BpHmmS6AJN9n5Qf3ffG_eHZW0&index=116)</span>\]  
    **Angelina Wang**, Solon Barocas, Kristen Laird, Hanna Wallach  
@@ -40,11 +45,6 @@ author_profile: true
 - <span style="color:CornflowerBlue">[The Limits of Global Inclusion in AI Development](https://arxiv.org/abs/2102.01265)</span>  
    Alan Chan\*, Chinasa T. Okolo\*, Zachary Terner\*, **Angelina Wang**\*  
    ***AAAI 2021 Workshop on Reframing Diversity in AI - Spotlight***
-
-- <span style="color:CornflowerBlue">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)</span>  
-Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan  
-***Preprint 2020***,
-<span style="color:CornflowerBlue">[Corpus](https://electionemails2020.org/)</span>
 
 - <span style="color:CornflowerBlue">[REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://arxiv.org/abs/2004.07999v3)</span> \[<span style="color:CornflowerBlue">[video](https://www.youtube.com/watch?v=PkbXhM5BlSM)</span>\]  
 <sup>alternate name: "BImAgeS: BIAS is in all images"</sup>  
