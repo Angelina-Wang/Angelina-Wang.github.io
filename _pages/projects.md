@@ -11,18 +11,16 @@ author_profile: true
 
 \* signifies equal contribution
 
-> - Signifies less representative papers
+> - signifies less representative papers
 
-- Signifies more representative papers
+- signifies more representative papers
 
 ## Papers
-
 - <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span>   
    **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
    ***Preprint, draft available upon request***
-   
 
-> - <span style="color:CornflowerBlue">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)</span> \[<span style="color:CornflowerBlue">[corpus](https://electionemails2020.org/)</span>\]  
+> - <span style="color:#C0C0C0">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)</span> \[<span style="color:#C0C0C0">[corpus](https://electionemails2020.org/)</span>\]  
 Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan  
 ***Big Data & Society 2022***
 
@@ -38,7 +36,7 @@ Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Ste
 **Angelina Wang**, Alexander Liu, Ryan Zhang, Anat Kleiman, Leslie Kim, Dora Zhao, Iroha Shirai, Arvind Narayanan, Olga Russakovsky  
 ***IJCV 2022 (extended version of ECCV 2020 publication)***
 
-- <span style="color:CornflowerBlue">[Understanding and Evaluating Racial Biases in Image Captioning](https://arxiv.org/abs/2106.08503)</span>  
+> - <span style="color:CornflowerBlue">[Understanding and Evaluating Racial Biases in Image Captioning](https://arxiv.org/abs/2106.08503)</span>  
    Dora Zhao, **Angelina Wang**, Olga Russakovsky  
    ***ICCV 2021***
 
