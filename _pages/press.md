@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+- <span style="color:CornflowerBlue">[AI Isn’t Artificial or Intelligent](https://www.vice.com/en/article/wxnaqz/ai-isnt-artificial-or-intelligent)</span>  
+	*VICE*, December 9, 2022
+
 - <span style="color:CornflowerBlue">[Testified](https://www.ourcommons.ca/DocumentViewer/en/44-1/ETHI/meeting-15/notice)</span> as a witness on a Hearing for Facial Recognition Technology before the Information, Privacy and Ethics Committee of the Canadian Parliament and cited in <span style="color:CornflowerBlue">[report](https://www.ourcommons.ca/Content/Committee/441/ETHI/Reports/RP11948475/ethirp06/ethirp06-e.pdf)</span>  
 	*Canadian Parliament Committee*, April 4, 2022
 
