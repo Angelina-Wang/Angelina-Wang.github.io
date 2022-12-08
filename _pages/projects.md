@@ -11,7 +11,7 @@ author_profile: true
 
 \* signifies equal contribution
 
-- <span style="color:#A9A9A9">signifies less representative papers</spam>
+- <span style="color:#A9A9A9">signifies less representative papers</span>
 
 - <span style="color:CornflowerBlue">signifies more representative papers</span>
 
