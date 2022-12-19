@@ -20,7 +20,7 @@ Previously I finished my undergrad with a major in Electrical Engineering and Co
 
 ![](./../images/my_images/IMG_5248.JPG)
 
-<sub>Thanks to my good friend [Nicki](https://www.nickip.me/), the url [angelinawang.gay](angelinawang.gay) currently redirects to this website</sub>
+<sub>Thanks to my good friend [Nicki](https://www.nickip.me/), the url [angelinawang.gay](http://angelinawang.gay) currently redirects to this website</sub>
 
 <!-- <sub><sup>Thanks to my good friend [Nicki](https://www.nickip.me/), the url [angelinawang.gay](http://www.angelinawang.gay) currently redirects to this website</sup></sub> -->
 
