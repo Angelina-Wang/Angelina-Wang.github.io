@@ -11,9 +11,7 @@ author_profile: true
 
 \* signifies equal contribution
 
-- <span style="color:#A9A9A9">signifies less representative papers</span>
-
-- <span style="color:CornflowerBlue">signifies more representative papers</span>
+<span style="color:#A9A9A9">signifies less representative papers</span>, <span style="color:CornflowerBlue">signifies more representative papers</span>
 
 ## Papers
 - <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span>   
