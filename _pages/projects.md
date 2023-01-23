@@ -17,10 +17,14 @@ author_profile: true
 - <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span>   
    **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
    ***Preprint, draft available upon request***
-
-- <span style="color:#A9A9A9">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)</span> \[<span style="color:#A9A9A9">[corpus](https://electionemails2020.org/)</span>\]  
+   
+- <span style="color:CornflowerBlue">Taxonomizing and Measuring Representational Harms: A Look at Image Tagging</span>   
+   Jared Katzman\*, **Angelina Wang**\*, Morgan Scheuerman, Su Lin Blodgett, Kristen Laird, Hanna Wallach, Solon Barocas  
+   ***AAAI 2023***
+   
+- <span style="color:#A9A9A9">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://journals.sagepub.com/doi/10.1177/20539517221145371)</span> \[<span style="color:#A9A9A9">[corpus](https://electionemails2020.org/)</span>\]  
 Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan  
-***Big Data & Society 2022***
+***Big Data & Society 2023***
 
 - <span style="color:CornflowerBlue">[Measuring Representational Harms in Image Captioning](https://arxiv.org/abs/2206.07173)</span> \[<span style="color:CornflowerBlue">[4 min video](https://www.youtube.com/watch?v=WJryYsn5D3o&list=PLXA0IWa3BpHm5zXqhB9rSTJ09TiFWyMo5&index=116)</span>\] \[<span style="color:CornflowerBlue">[15 min video](https://www.youtube.com/watch?v=P7rshiDQjDQ&list=PLXA0IWa3BpHmmS6AJN9n5Qf3ffG_eHZW0&index=116)</span>\]  
    **Angelina Wang**, Solon Barocas, Kristen Laird, Hanna Wallach  
