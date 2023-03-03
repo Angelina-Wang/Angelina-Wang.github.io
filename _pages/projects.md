@@ -20,7 +20,7 @@ author_profile: true
    
 - <span style="color:CornflowerBlue">Taxonomizing and Measuring Representational Harms: A Look at Image Tagging</span>   
    Jared Katzman\*, **Angelina Wang**\*, Morgan Scheuerman, Su Lin Blodgett, Kristen Laird, Hanna Wallach, Solon Barocas  
-   ***AAAI 2023***
+   ***AAAI 2023, manuscript forthcoming***
    
 - <span style="color:#A9A9A9">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://journals.sagepub.com/doi/10.1177/20539517221145371)</span> \[<span style="color:#A9A9A9">[corpus](https://electionemails2020.org/)</span>\]  
 Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan  
