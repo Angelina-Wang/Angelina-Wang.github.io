@@ -17,6 +17,14 @@ author_profile: true
 - <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span>   
    **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
    ***Preprint***
+ 
+- <span style="color:CornflowerBlue">[Overcoming Bias in Pretrained Models by Manipulating the Finetuning Dataset](https://arxiv.org/abs/2303.06167)</span>   
+   **Angelina Wang** and Olga Russakovsky  
+   ***Preprint***
+ 
+- <span style="color:#A9A9A9">[Gender Artifacts in Visual Datasets](https://arxiv.org/abs/2206.09191)</span>   
+   Nicole Meister*, Dora Zhao*, **Angelina Wang**, Vikram V. Ramaswamy, Ruth Fong, Olga Russakovsky  
+   ***Preprint***
    
 - <span style="color:CornflowerBlue">Taxonomizing and Measuring Representational Harms: A Look at Image Tagging</span>   
    Jared Katzman\*, **Angelina Wang**\*, Morgan Scheuerman, Su Lin Blodgett, Kristen Laird, Hanna Wallach, Solon Barocas  
