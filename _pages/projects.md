@@ -23,7 +23,7 @@ author_profile: true
    ***Preprint***
  
 - <span style="color:#A9A9A9">[Gender Artifacts in Visual Datasets](https://arxiv.org/abs/2206.09191)</span>   
-   Nicole Meister*, Dora Zhao*, **Angelina Wang**, Vikram V. Ramaswamy, Ruth Fong, Olga Russakovsky  
+   Nicole Meister\*, Dora Zhao\*, **Angelina Wang**, Vikram V. Ramaswamy, Ruth Fong, Olga Russakovsky  
    ***Preprint***
    
 - <span style="color:CornflowerBlue">Taxonomizing and Measuring Representational Harms: A Look at Image Tagging</span>   
