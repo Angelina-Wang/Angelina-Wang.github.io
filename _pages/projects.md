@@ -14,10 +14,6 @@ author_profile: true
 <span style="color:#A9A9A9">signifies less representative papers</span>, <span style="color:CornflowerBlue">signifies more representative papers</span>
 
 ## Papers
-- <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span>   
-   **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
-   ***Preprint***
- 
 - <span style="color:CornflowerBlue">[Overcoming Bias in Pretrained Models by Manipulating the Finetuning Dataset](https://arxiv.org/abs/2303.06167)</span>   
    **Angelina Wang** and Olga Russakovsky  
    ***Preprint***
@@ -26,11 +22,15 @@ author_profile: true
    Nicole Meister\*, Dora Zhao\*, **Angelina Wang**, Vikram V. Ramaswamy, Ruth Fong, Olga Russakovsky  
    ***Preprint***
    
-- <span style="color:CornflowerBlue">Taxonomizing and Measuring Representational Harms: A Look at Image Tagging</span>   
+- <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span> \[<span style="color:#A9A9A9">[website](https://predictive-optimization.cs.princeton.edu/)</span>\]   
+   **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
+   ***FAccT 2023***
+ 
+- <span style="color:CornflowerBlue">[Taxonomizing and Measuring Representational Harms: A Look at Image Tagging](https://arxiv.org/abs/2305.01776)</span>   
    Jared Katzman\*, **Angelina Wang**\*, Morgan Scheuerman, Su Lin Blodgett, Kristen Laird, Hanna Wallach, Solon Barocas  
-   ***AAAI 2023, manuscript forthcoming***
+   ***AAAI 2023***
    
-- <span style="color:#A9A9A9">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://journals.sagepub.com/doi/10.1177/20539517221145371)</span> \[<span style="color:#A9A9A9">[corpus](https://electionemails2020.org/)</span>\]  
+- <span style="color:#A9A9A9">[Manipulative Tactics are the Norm in Political Emails: Evidence from 100K emails from the 2020 U.S. Election Cycle](https://journals.sagepub.com/doi/10.1177/20539517221145371)</span> \[<span style="color:#A9A9A9">[website](https://electionemails2020.org/)</span>\]  
 Arunesh Mathur, **Angelina Wang**, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan  
 ***Big Data & Society 2023***
 
