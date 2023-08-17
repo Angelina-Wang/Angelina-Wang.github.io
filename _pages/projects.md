@@ -16,11 +16,11 @@ author_profile: true
 ## Papers
 - <span style="color:CornflowerBlue">[Overcoming Bias in Pretrained Models by Manipulating the Finetuning Dataset](https://arxiv.org/abs/2303.06167)</span>   
    **Angelina Wang** and Olga Russakovsky  
-   ***Preprint***
+   ***ICCV 2023 - Oral***
  
 - <span style="color:#A9A9A9">[Gender Artifacts in Visual Datasets](https://arxiv.org/abs/2206.09191)</span>   
    Nicole Meister\*, Dora Zhao\*, **Angelina Wang**, Vikram V. Ramaswamy, Ruth Fong, Olga Russakovsky  
-   ***Preprint***
+   ***ICCV 2023***
    
 - <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span> \[<span style="color:CornflowerBlue">[website](https://predictive-optimization.cs.princeton.edu/)</span>\]   
    **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
