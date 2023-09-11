@@ -18,9 +18,11 @@ Previously I finished my undergrad with a major in Electrical Engineering and Co
 
 <!-- Check out this [*video*](https://vimeo.com/265019557) of a recent trip with some friends to Iceland! -->
 
+<!--
 ![](./../images/my_images/IMG_5248.JPG)
 
 <sub>Thanks to my good friend [Nicki](https://www.nickip.me/), the url [angelinawang.gay](http://angelinawang.gay) currently redirects to this website</sub>
+-->
 
 <!-- <sub><sup>Thanks to my good friend [Nicki](https://www.nickip.me/), the url [angelinawang.gay](http://www.angelinawang.gay) currently redirects to this website</sup></sub> -->
 
