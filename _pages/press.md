@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+- <span style="color:CornflowerBlue">[Algorithms Are Making Important Decisions. What Could Possibly Go Wrong?](https://www.scientificamerican.com/article/algorithms-are-making-important-decisions-what-could-possibly-go-wrong/)</span>  
+	*Scientific American*, September 7, 2023
+
 - <span style="color:CornflowerBlue">[AI Isn’t Artificial or Intelligent](https://www.vice.com/en/article/wxnaqz/ai-isnt-artificial-or-intelligent)</span>  
 	*VICE*, December 9, 2022
 
