@@ -14,6 +14,10 @@ author_profile: true
 <span style="color:#A9A9A9">signifies less representative papers</span>, <span style="color:CornflowerBlue">signifies more representative papers</span>
 
 ## Papers
+- <span style="color:CornflowerBlue">[Measuring Machine Learning Harms from Stereotypes: Requires Understanding Who is Being Harmed by Which Errors in What Ways](https://angelina-wang.github.io/files/ml_stereotype_harm.pdf)</span>   
+   **Angelina Wang**, Xuechunzi Bai, Solon Barocas, Su Lin Blodgett  
+   ***EAAMO 2023***
+  
 - <span style="color:CornflowerBlue">[Overcoming Bias in Pretrained Models by Manipulating the Finetuning Dataset](https://arxiv.org/abs/2303.06167)</span>   
    **Angelina Wang** and Olga Russakovsky  
    ***ICCV 2023 - Oral***
