@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+- <span style="color:CornflowerBlue">[These new tools could make AI vision systems less biased](https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/)</span>  
+	*MIT Technology Review*, September 25, 2023
+
 - <span style="color:CornflowerBlue">[Algorithms Are Making Important Decisions. What Could Possibly Go Wrong?](https://www.scientificamerican.com/article/algorithms-are-making-important-decisions-what-could-possibly-go-wrong/)</span>  
 	*Scientific American*, September 7, 2023
 
