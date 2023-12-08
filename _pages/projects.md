@@ -28,7 +28,7 @@ author_profile: true
    
 - <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span> \[<span style="color:CornflowerBlue">[website](https://predictive-optimization.cs.princeton.edu/)</span>\]   
    **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
-   ***FAccT 2023***
+   ***FAccT 2023; Journal of Responsible Computing 2023***
  
 - <span style="color:CornflowerBlue">[Taxonomizing and Measuring Representational Harms: A Look at Image Tagging](https://arxiv.org/abs/2305.01776)</span>   
    Jared Katzman\*, **Angelina Wang**\*, Morgan Scheuerman, Su Lin Blodgett, Kristen Laird, Hanna Wallach, Solon Barocas  
