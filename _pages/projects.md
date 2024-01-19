@@ -26,7 +26,7 @@ author_profile: true
    Nicole Meister\*, Dora Zhao\*, **Angelina Wang**, Vikram V. Ramaswamy, Ruth Fong, Olga Russakovsky  
    ***ICCV 2023***
    
-- <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015)</span> \[<span style="color:CornflowerBlue">[website](https://predictive-optimization.cs.princeton.edu/)</span>\]   
+- <span style="color:CornflowerBlue">[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://dl.acm.org/doi/abs/10.1145/3636509)</span> \[<span style="color:CornflowerBlue">[website](https://predictive-optimization.cs.princeton.edu/)</span>\]   
    **Angelina Wang**\*, Sayash Kapoor\*, Solon Barocas, Arvind Narayanan  
    ***FAccT 2023; Journal of Responsible Computing 2023***
  
