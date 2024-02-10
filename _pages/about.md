@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) at the [Center for Information Technology Policy](https://citp.princeton.edu/), and am supported by the [NSF Graduate Student Fellowship](https://www.nsfgrfp.org/). 
+I am a computer science PhD student at Princeton University, advised by [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/). I also work with [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) at the [Center for Information Technology Policy (CITP)](https://citp.princeton.edu/), and am supported by the [NSF Graduate Student Fellowship](https://www.nsfgrfp.org/). I am a [2024 Microsoft Research AI & Society Fellow](https://www.microsoft.com/en-us/research/academic-program/ai-society-fellows/fellows/).
 
 My research interests are in **machine learning fairness and algorithmic bias**. This problem requires a combination of **technical and social** considerations to thoughtfully confront, and I work on grounding technical fairness work in the relevant social concerns. My [research statement](https://angelina-wang.github.io/files/research_statement.pdf).
 
