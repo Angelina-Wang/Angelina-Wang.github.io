@@ -18,11 +18,11 @@ author_profile: true
    **Angelina Wang**, Jamie Morgenstern, John P. Dickerson  
    ***Preprint***
 
-- <span style="color:CornflowerBlue">[Measuring Machine Learning Harms from Stereotypes: Requires Understanding Who is Being Harmed by Which Errors in What Ways](https://angelina-wang.github.io/files/ml_stereotype_harm.pdf)</span>   
+- <span style="color:CornflowerBlue">[Measuring Machine Learning Harms from Stereotypes: Requires Understanding Who is Being Harmed by Which Errors in What Ways](https://arxiv.org/abs/2402.04420)</span>   
    **Angelina Wang**, Xuechunzi Bai, Solon Barocas, Su Lin Blodgett  
    ***EAAMO 2023***
   
-- <span style="color:CornflowerBlue">[Overcoming Bias in Pretrained Models by Manipulating the Finetuning Dataset](https://arxiv.org/abs/2303.06167)</span>   
+- <span style="color:CornflowerBlue">[Overwriting Pretrained Bias with Finetuning Data](https://arxiv.org/abs/2303.06167)</span>   
    **Angelina Wang** and Olga Russakovsky  
    ***ICCV 2023 - Oral***
  
