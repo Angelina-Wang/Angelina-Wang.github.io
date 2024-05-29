@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will start as an Assistant Professor in [Information Science](https://infosci.cornell.edu/) at [Cornell Tech](https://tech.cornell.edu/) in Summer 2025, and will be admitting students this coming admissions cycle. Before that, I will be a postdoc at [Stanford HAI](https://hai.stanford.edu/) working with [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) and [Daniel Ho](https://law.stanford.edu/daniel-e-ho/) starting Summer 2024. 
+I will start as an Assistant Professor in [Information Science](https://infosci.cornell.edu/) at [Cornell Tech](https://tech.cornell.edu/) in Summer 2025, and will be [admitting PhD students](https://infosci.cornell.edu/phd/admissions) this coming admissions cycle. Before that, I will be a postdoc at [Stanford HAI](https://hai.stanford.edu/) working with [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) and [Daniel Ho](https://law.stanford.edu/daniel-e-ho/) starting Summer 2024. 
 
 My research interests are in **machine learning fairness and algorithmic bias**. This problem requires a combination of **technical and social** considerations, and I work on grounding technical fairness work in the relevant social concerns. My [research statement](https://angelina-wang.github.io/files/research_statement.pdf).
 
