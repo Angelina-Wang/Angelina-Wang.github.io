@@ -40,6 +40,10 @@ header p:last-child{
     margin-bottom: 30px;
 }
 
+.affil {
+    margin-top: -35px;
+}
+
 #content {
     position: relative;
     font-family: 'Open Sans', sans-serif;
@@ -118,8 +122,8 @@ a:hover, .activeTitle {
 
 .col-xs-3 {
     margin-top: 10px;
-/*    margin-right: 1cm;*/
 margin-left: 30px;
+/*margin-left: 5%;*/
 }
 
 .paper{
