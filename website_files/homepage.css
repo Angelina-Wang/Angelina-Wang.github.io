@@ -57,6 +57,14 @@ header p:last-child{
     color: rgb(68, 103, 135);
 
 }
+#content h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+/*    font-size: 30px;*/
+    color: rgb(68, 103, 135);
+
+}
 
 #content .content-block {
     margin-bottom: 43px;
