@@ -21,6 +21,61 @@
     <link href="./website_files/css" rel="stylesheet" type="text/css">
     <link href="./website_files/bootstrap.min.css" rel="stylesheet">
     <link href="./website_files/homepage.css" rel="stylesheet" type="text/css">
+    <style>
+      body {
+        font-family: "Open Sans", sans-serif;
+        color: #222;
+        line-height: 1.6;
+      }
+
+      .group-layout {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 32px;
+        align-items: flex-start;
+      }
+
+      .group-roster {
+/*        flex: 1 1 320px;*/
+        flex: 0 1 520px;
+        min-width: 0;
+      }
+
+      .group-photos {
+        position: relative;
+        left: -40px;
+        flex: 0 1 360px;
+        max-width: 360px;
+      }
+
+      .group-photos p {
+        margin-bottom: 16px;
+      }
+
+      .photo-stack {
+        display: grid;
+        gap: 16px;
+      }
+
+      .photo-stack img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-radius: 12px;
+        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+      }
+
+      @media (max-width: 767px) {
+        .group-layout {
+          gap: 24px;
+        }
+
+        .group-photos {
+          flex-basis: 100%;
+          max-width: none;
+        }
+      }
+    </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -49,16 +104,30 @@
                   <div class="content-block">
                     <br>
 
-        <div class="paper">
-            <h4>PhD Students</h4>
-            <a href="https://evan-dong.github.io/">Evan Dong</a> (co-advised with <a href="https://gargnikhil.com/">Nikhil Garg</a>) <br>
-            <a href="https://nickydcfp.github.io/">Nicky Kriplani</a> (co-advised with <a href="https://www.hadarelor.com/">Hadar Averbuch-Elor</a>) <br>
-            <a href="https://vyoma-raman.github.io/">Vyoma Raman</a>
+        <div class="paper group-layout">
+            <div class="group-roster">
+              <h4>PhD Students</h4>
+              <a href="https://evan-dong.github.io/">Evan Dong</a> (co-advised with <a href="https://gargnikhil.com/">Nikhil Garg</a>) <br>
+              <a href="https://nickydcfp.github.io/">Nicky Kriplani</a> (co-advised with <a href="https://www.hadarelor.com/">Hadar Averbuch-Elor</a>) <br>
+              <a href="https://vyoma-raman.github.io/">Vyoma Raman</a>
 
-            <h4>Masters Students</h4>
-            Thalia Zhang
+              <h4>Masters Students</h4>
+              <a href="https://thaliazhang03.github.io/personal-website-new/">Thalia Zhang</a> <br>
+              Jihyun Kim
 
-</div>
+              <h4>Visiting Collaborators</h4>
+              <a href="https://meera-desai.com/">Meera Desai</a> <br>
+              <a href="https://www.efleisig.com/">Eve Fleisig</a> <br>
+            </div>
+
+            <aside class="group-photos" aria-label="Group photos">
+              <h4>Figures</h4>
+              <div class="photo-stack">
+                <img src="files/group_1.jpeg" alt="Research group photo 1">
+                <img src="files/group_2.jpeg" alt="Research group photo 2">
+              </div>
+            </aside>
+        </div>
 
 <!--         <div class="paper">
             <h4>Spring 2026: Fairness in Machine Learning</h4>
@@ -74,7 +143,6 @@
     </div>
     </div>
 <br><br><br><br><br><br>
-    </div>
     </div>
     <script src="./website_files/bootstrap.min.js"></script>
   
