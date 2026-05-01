@@ -21,6 +21,74 @@
     <link href="./website_files/css" rel="stylesheet" type="text/css">
     <link href="./website_files/bootstrap.min.css" rel="stylesheet">
     <link href="./website_files/homepage.css" rel="stylesheet" type="text/css">
+    <style>
+      .home-header .hero-photo,
+      .home-header .hero-copy {
+        display: block !important;
+      }
+
+      .home-header .hero-photo,
+      .home-header .hero-copy,
+      .home-header .hero-copy-inner,
+      .home-header .profile_pic {
+        text-align: center;
+      }
+
+      .home-header .affil {
+        margin-top: 8px;
+        margin-bottom: 12px;
+      }
+
+      .home-header .profile_pic img {
+        margin-bottom: 12px;
+      }
+
+      .home-header .social-links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 24px;
+        flex-wrap: wrap;
+        margin-top: 6px;
+      }
+
+      .home-header .social-links a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .home-header .social-links img {
+        display: block;
+        max-height: 31px;
+        width: auto;
+      }
+
+      .home-header .hero-copy {
+        margin-top: 18px;
+      }
+
+      @media (min-width: 768px) {
+        .home-header .hero-copy {
+          display: flex !important;
+          align-items: center;
+          margin-top: 0;
+        }
+
+        .home-header .hero-copy,
+        .home-header .hero-copy-inner {
+          text-align: left;
+        }
+
+        .home-header .profile_pic img {
+          margin-bottom: 0;
+        }
+
+        .home-header .social-links {
+          margin-top: 10px;
+        }
+      }
+    </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,20 +101,30 @@
   <body>
 
     <div class="container">
-      <header>
+      <header class="home-header">
         <div class="row">
-          <div class="col-md-4 d-flex align-items-center justify-content-md-start justify-content-center">
+          <div class="col-md-4 d-flex align-items-center justify-content-md-start justify-content-center hero-photo">
               <div class="profile_pic">
                   <img src="./website_files/headshot.jpeg">                                    
+              </div>
+              <div class="social-links" aria-label="Contact links">
+                <a href="mailto:angelina.wang@cornell.edu" title="email">
+                  <img src="./files/email.jpeg" alt="Email">
+                </a>
+                <a href="https://bsky.app/profile/angelinawang.bsky.social" title="bluesky">
+                  <img src="./files/bluesky.png" alt="Bluesky">
+                </a>
+                <a href="https://scholar.google.com/citations?user=cGemfcYAAAAJ&hl=en" title="google scholar">
+                  <img src="./files/scholar.png" alt="Google Scholar">
+                </a>
               </div>
           </div>
 
                         
 
-          <div class="col-md-8 d-flex align-items-center">
-            <div>
+          <div class="col-md-8 d-flex align-items-center hero-copy">
+            <div class="hero-copy-inner">
                   <h1>Angelina Wang</h1>
-                  <p><span style="color:white;">_____________________________________________________________________</span></p>
                   <p class="affil">
                     Assistant Professor<br>Cornell Tech<br>Bloomberg 287                   
                   </p>
@@ -60,24 +138,10 @@
                       <!-- <a href="https://x.com/ang3linawang" target="_blank">twitter</a> | -->
                       <!-- <a href="https://github.com" target="_blank">github</a> | -->
                       <!-- <a href="https://scholar.google.com/citations?user=cGemfcYAAAAJ&hl=en" target="_blank">google scholar</a></p> -->
+                  </p>
             </div>
           </div>
         </div>
-<div class="col-md-4 d-flex align-items-center justify-content-md-start justify-content-center">
-                    
-                      <div class="col-xs-3">
-<a href="mailto:angelina.wang@cornell.edu" title="email"><img src="./files/email.jpeg" style="max-height:31px;" class="img-responsive"></a>
-</div>
-<!-- <div class="col-xs-3">
-<a href="https://x.com/ang3linawang" title="twitter"><img src="./files/twitter.png" style="max-height:31px;" class="img-responsive"></a>
-</div> -->
-<div class="col-xs-3">
-<a href="https://bsky.app/profile/angelinawang.bsky.social" title="bluesky"><img src="./files/bluesky.png" style="max-height:31px;" class="img-responsive"></a>
-</div>
- <div class="col-xs-3">
-<a href="https://scholar.google.com/citations?user=cGemfcYAAAAJ&hl=en" title="google scholar"><img src="./files/scholar.png" style="max-height:31px;" class="img-responsive"></a>
-</div>
-</div>
 
         </header>
         <div class="row">
