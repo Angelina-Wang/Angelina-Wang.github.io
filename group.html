@@ -29,92 +29,113 @@
   <link href="./website_files/bootstrap.min.css" rel="stylesheet">
   <link href="./website_files/homepage.css" rel="stylesheet" type="text/css">
 
-  <style>
-    body {
-      font-family: "Open Sans", sans-serif;
-      color: #222;
-      line-height: 1.6;
-    }
 
-    .group-section {
-      margin-top: 36px;
-    }
+<style>
+  body {
+    font-family: "Open Sans", sans-serif;
+    color: #222;
+    line-height: 1.6;
+  }
 
-    .group-section h4 {
-      margin-bottom: 18px;
-    }
+  .group-section {
+    margin-top: 36px;
+  }
 
+  .group-section h4 {
+    margin-bottom: 18px;
+  }
+
+  .people-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    align-items: flex-start;
+  }
+
+  .person-card {
+    width: 150px;
+    flex: 0 0 150px;
+    text-align: center;
+  }
+
+  .person-card img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 9px;
+  }
+
+  .person-name {
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  .person-detail {
+    margin-top: 2px;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  /* Masters + undergrad on same row.
+     Undergraduate aligns with the 3rd person above. */
+  .student-level-row {
+    display: grid;
+    grid-template-columns: 324px auto;
+    column-gap: 24px;
+    align-items: start;
+  }
+
+  .student-level-section {
+    margin-top: 36px;
+  }
+
+  .group-figures {
+    margin-top: 48px;
+  }
+
+  .photo-stack {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    align-items: start;
+  }
+
+  .photo-stack img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+  }
+
+  @media (max-width: 767px) {
     .people-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 24px;
-      align-items: flex-start;
+      gap: 20px;
     }
 
     .person-card {
       width: 150px;
-      text-align: center;
+      flex: 0 0 150px;
     }
 
     .person-card img {
-      display: block;
       width: 150px;
       height: 150px;
       object-fit: cover;
-      margin-bottom: 9px;
     }
 
-    .person-name {
-      font-weight: 600;
-      line-height: 1.35;
-    }
-
-    .person-detail {
-      margin-top: 2px;
-      font-size: 13px;
-      line-height: 1.4;
-    }
-
-    .group-figures {
-      margin-top: 48px;
+    .student-level-row {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
     }
 
     .photo-stack {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 20px;
-      align-items: start;
+      grid-template-columns: 1fr;
     }
-
-    .photo-stack img {
-      display: block;
-      width: 100%;
-      height: auto;
-      border-radius: 12px;
-      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
-    }
-
-    @media (max-width: 767px) {
-      .people-row {
-        gap: 20px;
-      }
-
-      .person-card {
-        width: calc(50% - 10px);
-        max-width: 150px;
-      }
-
-      .person-card img {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 1 / 1;
-      }
-
-      .photo-stack {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
+  }
+</style>
 
   <!-- HTML5 shim and Respond.js for IE8 support -->
   <!--[if lt IE 9]>
@@ -216,38 +237,37 @@
               </section>
 
 
-              <!-- Masters students -->
-              <section class="group-section">
-                <h4>Masters Students</h4>
+             <div class="student-level-row">
 
-                <div class="people-row">
+  <!-- Masters students -->
+  <section class="group-section student-level-section">
+    <h4>Masters Students</h4>
 
-                  <div class="person-card">
-                    <img src="group/thalia.png" alt="Thalia Zhang">
-                    <div class="person-name">
-                      <a href="https://thaliayz-website.onrender.com/">Thalia Zhang</a>
-                    </div>
-                  </div>
+    <div class="people-row">
+      <div class="person-card">
+        <img src="group/thalia.png" alt="Thalia Zhang">
+        <div class="person-name">
+          <a href="https://thaliayz-website.onrender.com/">Thalia Zhang</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-                </div>
-              </section>
+  <!-- Undergraduate students -->
+  <section class="group-section student-level-section">
+    <h4>Undergraduate Students</h4>
 
+    <div class="people-row">
+      <div class="person-card">
+        <img src="group/vivian.jpeg" alt="Vivian Ye">
+        <div class="person-name">
+          <a href="https://www.linkedin.com/in/vivian-ye-b903a927a">Vivian Ye</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-              <!-- Undergraduate students -->
-              <section class="group-section">
-                <h4>Undergraduate Students</h4>
-
-                <div class="people-row">
-
-                  <div class="person-card">
-                    <img src="group/vivian.jpeg" alt="Vivian Ye">
-                    <div class="person-name">
-                      <a href="https://www.linkedin.com/in/vivian-ye-b903a927a">Vivian Ye</a>
-                    </div>
-                  </div>
-
-                </div>
-              </section>
+</div>
 
 
               <!-- Visiting collaborators -->
