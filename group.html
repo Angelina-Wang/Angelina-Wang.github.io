@@ -1,156 +1,301 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SC6X1YW1BH"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-SC6X1YW1BH');
-    </script>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <script async="" src="./website_files/js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700" rel="stylesheet" type="text/css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SC6X1YW1BH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-SC6X1YW1BH');
+  </script>
 
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script async src="./website_files/js"></script>
 
-    <title>Angelina Wang</title>
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700"
+    rel="stylesheet"
+    type="text/css"
+  >
 
-    <link href="./website_files/css" rel="stylesheet" type="text/css">
-    <link href="./website_files/bootstrap.min.css" rel="stylesheet">
-    <link href="./website_files/homepage.css" rel="stylesheet" type="text/css">
-    <style>
-      body {
-        font-family: "Open Sans", sans-serif;
-        color: #222;
-        line-height: 1.6;
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Angelina Wang</title>
+
+  <link href="./website_files/css" rel="stylesheet" type="text/css">
+  <link href="./website_files/bootstrap.min.css" rel="stylesheet">
+  <link href="./website_files/homepage.css" rel="stylesheet" type="text/css">
+
+  <style>
+    body {
+      font-family: "Open Sans", sans-serif;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    .group-section {
+      margin-top: 36px;
+    }
+
+    .group-section h4 {
+      margin-bottom: 18px;
+    }
+
+    .people-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      align-items: flex-start;
+    }
+
+    .person-card {
+      width: 150px;
+      text-align: center;
+    }
+
+    .person-card img {
+      display: block;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      margin-bottom: 9px;
+    }
+
+    .person-name {
+      font-weight: 600;
+      line-height: 1.35;
+    }
+
+    .person-detail {
+      margin-top: 2px;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    .group-figures {
+      margin-top: 48px;
+    }
+
+    .photo-stack {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      align-items: start;
+    }
+
+    .photo-stack img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+    }
+
+    @media (max-width: 767px) {
+      .people-row {
+        gap: 20px;
       }
 
-      .group-layout {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 32px;
-        align-items: flex-start;
+      .person-card {
+        width: calc(50% - 10px);
+        max-width: 150px;
       }
 
-      .group-roster {
-/*        flex: 1 1 320px;*/
-        flex: 0 1 520px;
-        min-width: 0;
-      }
-
-      .group-photos {
-        position: relative;
-        left: -40px;
-        flex: 0 1 360px;
-        max-width: 360px;
-      }
-
-      .group-photos p {
-        margin-bottom: 16px;
+      .person-card img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1 / 1;
       }
 
       .photo-stack {
-        display: grid;
-        gap: 16px;
+        grid-template-columns: 1fr;
       }
+    }
+  </style>
 
-      .photo-stack img {
-        display: block;
-        width: 100%;
-        height: auto;
-        border-radius: 12px;
-        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
-      }
+  <!-- HTML5 shim and Respond.js for IE8 support -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
 
-      @media (max-width: 767px) {
-        .group-layout {
-          gap: 24px;
-        }
+<body>
 
-        .group-photos {
-          left: 0;
-          flex-basis: 100%;
-          max-width: none;
-        }
-      }
-    </style>
+  <div class="container">
+    <header>
+      <h1>Group</h1>
+      <a href="index.html">&larr; Home</a>
+    </header>
+  </div>
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
 
-  </head>
-  <body>
+        <div id="content">
+          <div class="content-block">
+            <div class="paper">
 
-    <div class="container">
-      <header>
-        <h1>
-        Research Group
-      </h1>
-      <a href=index.html>&larr; Home</a>
-      </header>
+              <!-- Postdocs -->
+              <section class="group-section">
+                <h4>Postdoctoral Fellows</h4>
 
-    </div>
-    <div class="container">
-<div class="row">
-            <div class="col-md-12">
+                <div class="people-row">
 
-                <div id="content">
-                  <div class="content-block">
+                  <div class="person-card">
+                    <img src="group/michael.jpeg" alt="Michael Feffer">
+                    <div class="person-name">
+                      <a href="https://mfeffer.github.io/">Michael Feffer</a>
+                    </div>
+                    <div class="person-detail">
+                      at <a href="https://dli.tech.cornell.edu/">DLI</a>
+                    </div>
+                  </div>
 
-        <div class="paper group-layout">
-            <div class="group-roster">
-              <h4>Postdoctoral Fellows</h4>
-              <a href="https://falaaharifkhan.github.io/research/">Falaah Arif Khan</a><br>
+                  <div class="person-card">
+                    <img src="group/nava.jpg" alt="Nava Haghighi">
+                    <div class="person-name">
+                      <a href="https://navahaghighi.com/">Nava Haghighi</a>
+                    </div>
+                    <div class="person-detail">
+                      at <a href="https://dli.tech.cornell.edu/">DLI</a>
+                    </div>
+                  </div>
 
-              <h4>PhD Students</h4>
-              <a href="https://www.linkedin.com/in/andrew-b-shaw">Andrew Shaw</a> (co-advised with <a href="https://katezhou.github.io/">Kaitlyn Zhou</a>) <br>
-              <a href="https://evan-dong.github.io/">Evan Dong</a> (co-advised with <a href="https://gargnikhil.com/">Nikhil Garg</a>) <br>
-              <a href="https://vyoma-raman.github.io/">Vyoma Raman</a>
+                  <div class="person-card">
+                    <img src="group/falaah.png" alt="Falaah Arif Khan">
+                    <div class="person-name">
+                      <a href="https://falaaharifkhan.github.io/research/">Falaah Arif Khan</a>
+                    </div>
+                  </div>
 
-              <h4>Masters Students</h4>
-              <a href="https://thaliayz-website.onrender.com/">Thalia Zhang</a> <br>
-              Jihyun Kim
+                </div>
+              </section>
 
-              <h4>Undergraduate Students</h4>
-              <a href="https://www.linkedin.com/in/vivian-ye-b903a927a">Vivian Ye</a> <br>
 
-              <h4>Visiting Collaborators</h4>
-              <a href="https://meera-desai.com/">Meera Desai</a> <br>
-              <a href="https://www.efleisig.com/">Eve Fleisig</a> <br>
+              <!-- PhD students -->
+              <section class="group-section">
+                <h4>PhD Students</h4>
+
+                <div class="people-row">
+
+                  <div class="person-card">
+                    <img src="group/evan.jpeg" alt="Evan Dong">
+                    <div class="person-name">
+                      <a href="https://evan-dong.github.io/">Evan Dong</a>
+                    </div>
+                    <div class="person-detail">
+                      co-advised with
+                      <a href="https://gargnikhil.com/">Nikhil Garg</a>
+                    </div>
+                  </div>
+
+                  <div class="person-card">
+                    <img src="group/vyoma.png" alt="Vyoma Raman">
+                    <div class="person-name">
+                      <a href="https://vyoma-raman.github.io/">Vyoma Raman</a>
+                    </div>
+                  </div>
+
+                  <div class="person-card">
+                    <img src="group/andrew.jpg" alt="Andrew Shaw">
+                    <div class="person-name">
+                      <a href="https://www.linkedin.com/in/andrew-b-shaw">Andrew Shaw</a>
+                    </div>
+                    <div class="person-detail">
+                      co-advised with
+                      <a href="https://katezhou.github.io/">Kaitlyn Zhou</a>
+                    </div>
+                  </div>
+
+                </div>
+              </section>
+
+
+              <!-- Masters students -->
+              <section class="group-section">
+                <h4>Masters Students</h4>
+
+                <div class="people-row">
+
+                  <div class="person-card">
+                    <img src="group/thalia.png" alt="Thalia Zhang">
+                    <div class="person-name">
+                      <a href="https://thaliayz-website.onrender.com/">Thalia Zhang</a>
+                    </div>
+                  </div>
+
+                </div>
+              </section>
+
+
+              <!-- Undergraduate students -->
+              <section class="group-section">
+                <h4>Undergraduate Students</h4>
+
+                <div class="people-row">
+
+                  <div class="person-card">
+                    <img src="group/vivian.jpeg" alt="Vivian Ye">
+                    <div class="person-name">
+                      <a href="https://www.linkedin.com/in/vivian-ye-b903a927a">Vivian Ye</a>
+                    </div>
+                  </div>
+
+                </div>
+              </section>
+
+
+              <!-- Visiting collaborators -->
+              <section class="group-section">
+                <h4>Visiting Collaborators</h4>
+
+                <div class="people-row">
+
+                  <div class="person-card">
+                    <img src="group/meera.jpeg" alt="Meera Desai">
+                    <div class="person-name">
+                      <a href="https://meera-desai.com/">Meera Desai</a>
+                    </div>
+                  </div>
+
+                  <div class="person-card">
+                    <img src="group/eve.jpg" alt="Eve Fleisig">
+                    <div class="person-name">
+                      <a href="https://www.efleisig.com/">Eve Fleisig</a>
+                    </div>
+                  </div>
+
+                </div>
+              </section>
+
+
+              <!-- Group photos -->
+              <section class="group-figures">
+                <h4>Figures</h4>
+
+                <div class="photo-stack">
+                  <img src="files/group_1.jpeg" alt="Research group photo 1">
+                  <img src="files/group_2.jpeg" alt="Research group photo 2">
+                </div>
+              </section>
+
             </div>
-
-            <aside class="group-photos" aria-label="Group photos">
-              <h4>Figures</h4>
-              <div class="photo-stack">
-                <img src="files/group_1.jpeg" alt="Research group photo 1">
-                <img src="files/group_2.jpeg" alt="Research group photo 2">
-              </div>
-            </aside>
+          </div>
         </div>
 
-<!--         <div class="paper">
-            <h4>Spring 2026: Fairness in Machine Learning</h4>
-
-            <p>Based on Allison Koenecke and Emma Pierson's <a href="https://classes.cornell.edu/browse/roster/SP24/class/CS/5382">Spring 2024 Practical Principles for Designing Fair Algorithms</a></p>
-</div>
- -->
-
-
-
-</div>
+      </div>
     </div>
-    </div>
-    </div>
-<br><br><br><br><br><br>
-    </div>
-    <script src="./website_files/bootstrap.min.js"></script>
-  
+  </div>
 
-</body></html>
+  <br><br><br><br><br><br>
+
+  <script src="./website_files/bootstrap.min.js"></script>
+
+</body>
+</html>
+```
